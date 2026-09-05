@@ -1,6 +1,6 @@
 # wavalid-go-sdk
 
-Go SDK for the [wavalid](https://wavalid.com) WhatsApp number validation API. wavalid checks whether a phone number is registered and active on WhatsApp; it does not send messages and does not store phone numbers.
+Go SDK for the [wavalid](https://wavalid.com?utm_source=github) WhatsApp number validation API. wavalid checks whether a phone number is registered and active on WhatsApp; it does not send messages and does not store phone numbers.
 
 ## Install
 
@@ -70,6 +70,6 @@ if err != nil {
 
 ## Links
 
-- API reference: https://wavalid.com/product/api
+- API reference: https://wavalid.com/product/api?utm_source=github
 - Source / issues: https://github.com/rizonllc/wavalid-go-sdk
 - License: MIT
